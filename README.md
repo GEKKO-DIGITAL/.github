@@ -37,14 +37,14 @@ Our focus is on building reliable, scalable, and meaningful solutions that help 
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### Web Development
 
 Modern, responsive, and scalable web experiences designed around business needs.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+### Software Engineering
 
 Practical software solutions built to improve workflows, efficiency, and productivity.
 
@@ -53,14 +53,14 @@ Practical software solutions built to improve workflows, efficiency, and product
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 SaaS & Digital Products
+### SaaS & Digital Products
 
 Digital products and software platforms designed for real-world applications.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Business Automation
+### Business Automation
 
 Technology-driven solutions that simplify operations and reduce repetitive work.
 
@@ -69,14 +69,14 @@ Technology-driven solutions that simplify operations and reduce repetitive work.
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX Design
+### UI/UX Design
 
 User-focused interfaces that balance usability, accessibility, and visual clarity.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Innovation
+### AI & Innovation
 
 Exploring intelligent technologies to develop innovative and practical solutions.
 
@@ -102,27 +102,27 @@ To transform ideas into effective digital solutions through technical excellence
 <tr>
 <td align="center" width="20%">
 
-**💡 Innovation**
+**Innovation**
 
 </td>
 <td align="center" width="20%">
 
-**⭐ Quality**
+**Quality**
 
 </td>
 <td align="center" width="20%">
 
-**🤝 Collaboration**
+**Collaboration**
 
 </td>
 <td align="center" width="20%">
 
-**🔐 Integrity**
+**Integrity**
 
 </td>
 <td align="center" width="20%">
 
-**📈 Growth**
+**Growth**
 
 </td>
 </tr>
