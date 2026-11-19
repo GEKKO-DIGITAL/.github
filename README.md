@@ -1,116 +1,138 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B35,50:155E9A,100:00C6FF&height=220&section=header&text=GEKKO%20DIGITAL&fontSize=48&fontAlignY=38&desc=A%20GEKKO%20GROUP%20Company&descAlignY=60&descSize=18&fontColor=ffffff" width="100%" alt="GEKKO DIGITAL Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1730&height=180&section=header&text=GEKKO%20DIGITAL&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=A%20GEKKO%20GROUP%20Company&descSize=17&descAlignY=68&animation=fadeIn" width="100%" alt="GEKKO DIGITAL Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=21&pause=1500&color=00AEEF&center=true&vCenter=true&width=650&lines=Digital+Solutions.+Built+Better.;Turning+Ideas+Into+Digital+Experiences.;Technology+%7C+Innovation+%7C+Collaboration;Building+Solutions+That+Matter." alt="Animated Typing Text"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=00AEEF&center=true&vCenter=true&width=650&lines=Digital+Solutions.+Built+Better.;Building+Reliable+Digital+Experiences.;Innovation+Through+Technology.;Turning+Ideas+Into+Impact." alt="Animated tagline" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/144138597/)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gekkodigital.official@gmail.com)
+<a href="https://www.linkedin.com/company/144138597/">
+  <img src="https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:gekkodigital.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Us-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## About GEKKO DIGITAL
+## About Us
 
-GEKKO DIGITAL is a technology and digital solutions company operating under **GEKKO GROUP**.
+**GEKKO DIGITAL** is a technology and digital solutions company operating under **GEKKO GROUP**.
 
-We bring together technical expertise, creative thinking, and collaborative problem-solving to build reliable, scalable, and meaningful digital solutions.
+We combine technical expertise, innovative thinking, and collaborative problem-solving to transform ideas into practical digital experiences.
 
-Our focus is on helping businesses and organizations transform ideas into practical digital experiences through technology and innovation.
+Our focus is on building reliable, scalable, and meaningful solutions that help businesses and organizations move forward in an increasingly digital world.
 
----
-
-## Our Services
-
-<div align="center">
+## What We Do
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>Web Development</h3>
-Modern websites and web applications built for performance and scalability.
+<td width="50%" valign="top">
+
+### Web Development
+
+Modern, responsive, and scalable web experiences designed around business needs.
+
 </td>
-<td align="center" width="33%">
-<h3>Software Engineering</h3>
-Custom software solutions designed to address real-world challenges.
-</td>
-<td align="center" width="33%">
-<h3>SaaS & Digital Products</h3>
-Scalable digital products and software platforms.
+<td width="50%" valign="top">
+
+### Software Engineering
+
+Practical software solutions built to improve workflows, efficiency, and productivity.
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<h3>Business Automation</h3>
-Streamlining business operations through technology.
+<td width="50%" valign="top">
+
+### SaaS & Digital Products
+
+Digital products and software platforms designed for real-world applications.
+
 </td>
-<td align="center">
-<h3>UI/UX Design</h3>
-Intuitive and user-focused digital experiences.
+<td width="50%" valign="top">
+
+### Business Automation
+
+Technology-driven solutions that simplify operations and reduce repetitive work.
+
 </td>
-<td align="center">
-<h3>AI & Innovation</h3>
-Exploring emerging technologies and intelligent solutions.
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### UI/UX Design
+
+User-focused interfaces that balance usability, accessibility, and visual clarity.
+
+</td>
+<td width="50%" valign="top">
+
+### AI & Innovation
+
+Exploring intelligent technologies to develop innovative and practical solutions.
+
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
 ## Our Vision
 
-To establish GEKKO DIGITAL as a trusted technology company, delivering innovative digital solutions and creating lasting value for businesses and communities.
+To establish GEKKO DIGITAL as a trusted technology company recognized for innovation, quality, and meaningful digital impact.
 
 ## Our Mission
 
-To transform ideas into practical digital solutions through technical excellence, innovation, collaboration, and a commitment to quality.
+To transform ideas into effective digital solutions through technical excellence, continuous innovation, collaboration, and a commitment to quality.
 
----
+## Our Core Values
 
-## Our Approach
-
-- **Innovation:** Embracing ideas and emerging technologies.
-- **Quality:** Delivering reliable and maintainable solutions.
-- **Collaboration:** Building through teamwork and shared responsibility.
-- **Integrity:** Maintaining transparency and professionalism.
-- **Growth:** Continuously learning, improving, and evolving.
+- **Innovation** — Embracing new ideas and evolving technologies.
+- **Quality** — Maintaining high standards in every solution we deliver.
+- **Collaboration** — Building better outcomes through teamwork.
+- **Integrity** — Working with transparency, responsibility, and trust.
+- **Continuous Growth** — Learning, improving, and moving forward together.
 
 ---
 
 ## Let's Build Something Together
 
-Have a project idea or looking for a technology partner? We would love to hear from you.
+Have a project idea, business challenge, or collaboration opportunity?
+
+We would love to connect and explore how technology can make it happen.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/company/144138597/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="mailto:gekkodigital.official@gmail.com">
-<img src="https://img.shields.io/badge/Business%20Inquiries-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Get%20in%20Touch-Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch"/>
 </a>
 
-**Email:** gekkodigital.official@gmail.com
-
-<br/>
+<br/><br/>
 
 **GEKKO DIGITAL**  
 *A GEKKO GROUP Company*
 
-**One Team. One Vision.**
-
-*Digital Solutions. Built Better.*
+**Digital Solutions. Built Better.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:155E9A,100:101B35&height=120&section=footer" width="100%" alt="Footer Banner"/>
+---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1730&height=90&section=footer&text=GEKKO%20DIGITAL&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="GEKKO DIGITAL Footer"/>
+
+<sub>© GEKKO DIGITAL. All rights reserved.</sub>
+
+</div>
